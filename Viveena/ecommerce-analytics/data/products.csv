@@ -1,0 +1,6 @@
+customer_id,product_id,product_name,category,price
+1,101,Laptop,Electronics,55000
+1,102,Phone,Electronics,25000
+1,103,Shoes,Fashion,3000
+1,104,Watch,Fashion,5000
+1,105,Book,Education,700
